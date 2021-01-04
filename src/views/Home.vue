@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <HomeHeader/>
-    <div class="container">123</div>
+    <div class="container">456</div>
   </div>
 </template>
 
